@@ -29,3 +29,14 @@ div{
     position:absolute; left:520px; top:100px;
     
 }
+
+@media screen and (max-width: 600px){
+
+    div{
+        position:absolute; left:170px; top:100px;
+        
+    }
+
+    p{
+        width:400px;
+    }
