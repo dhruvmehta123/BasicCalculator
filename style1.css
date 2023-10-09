@@ -1,0 +1,31 @@
+button{
+    background-color: rgba(136, 134, 142, 0.58);
+    border-radius: 2000px;
+    height: 40px;
+    width:45px;
+    border:none;
+    color:white;
+    font-family: Arial;
+    font-size: 15px;
+
+}
+
+body{
+    background-color: black;
+}
+
+.result{
+    color:white;
+    font-family: Arial;
+    font-size: 40px;
+}
+
+.operator{
+
+    background-color: orange;
+}
+
+div{
+    position:absolute; left:520px; top:100px;
+    
+}
